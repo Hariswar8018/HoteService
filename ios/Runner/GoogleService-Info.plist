@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>922953431526-s9hql4dvtbtgcr1u6er7hudga7his7ib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922953431526-s9hql4dvtbtgcr1u6er7hudga7his7ib</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcS3P7dqPzBqiEDWRhVg_3WGckQPsmewA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922953431526</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.heavenonthisearth.starwish</string>
+	<key>PROJECT_ID</key>
+	<string>heaven-on-this-e-1673398261366</string>
+	<key>STORAGE_BUCKET</key>
+	<string>heaven-on-this-e-1673398261366.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922953431526:ios:ace29042005b486ff8fe27</string>
+</dict>
+</plist>
